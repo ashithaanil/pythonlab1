@@ -1,2 +1,4 @@
 a=8
-print(a)
+b=9
+c=a+b
+print(c)
