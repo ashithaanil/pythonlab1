@@ -1,1 +1,1 @@
-
+lambda print
